@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Html Paragraphs and Line Breaks</title>
+  	</head>
+	<body>
+		<h1>Html Paragraphs and Line Breaks</h1>
+		<p>This is a paragraph.</p>
+		<p>This is another paragraph.</p>
+		<p>This is<br>a paragraph<br>with line breaks.</p>
+	</body>
+</html>
